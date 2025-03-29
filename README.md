@@ -15,10 +15,9 @@ Used Inno Setup to make the installer for the game.
 Now the version is supporting windows 64
 The user can download the game by visit below in the current repo:
 
-'''
-
+```
 Builds\Windows\Installer\CUBERUN_Setup_x86_64
-'''
+```
 
 ## 4. Thank you
 
