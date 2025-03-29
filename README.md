@@ -7,8 +7,9 @@ https://github.com/user-attachments/assets/136cfd77-2f99-4461-a4e9-2b73a4fd7cf4
 
 ## 2. Tools and Framworks
 
-Used Unity, including packages and physic engines inside, C#, visual studio for developing game logic, build and export to the app.
-Used Inno Setup to make the installer for the game.
+- Built 3D scenes and prefabs, build and export using Unity, including packages, physic engine and game dev tool sets
+- Implemented the game logic like start, sucess, fail, swicth levels using C# with visual studio
+- Used Inno Setup to make the installer for the game app.
 
 ## 3. How to download and version
 
